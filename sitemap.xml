@@ -3,97 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.matei.codes/posts/2014/09/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/projects/photography/</loc>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/projects/design/</loc>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/series/hugo-101/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/projects/writing/</loc>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/projects/</loc>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/blog/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/series/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/tags/code/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/posts/2014/04/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/series/quickstart/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/series/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/tags/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/posts/2014/04/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/blog/configuration/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/blog/long-form-post/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/tags/blog/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://matei.codes/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.matei.codes/blog/</loc>
+    <loc>https://matei.codes/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matei.codes/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matei.codes/blog/no-date/</loc>
   </url>
   
 </urlset>
